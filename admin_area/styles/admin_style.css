@@ -1,0 +1,43 @@
+
+.page-header{
+	box-shadow:2px 2px 2px #15de81;
+    color: deepskyblue;
+
+}
+.nav-pills>li>a {
+    border-radius: 0px;
+}
+
+.nav-pills.nav-stacked{
+	
+	background: white;
+	font-weight: bold;
+
+}
+.nav>li>a:focus, .nav>li>a:hover{
+	border-bottom: 2px solid deepskyblue;
+}
+}
+#main{
+	background: #f2f3f4;
+	padding-right:0px;
+}
+.row-footer{
+	background: deepskyblue;
+}
+#a{
+	color:deepskyblue;
+}
+#abc{
+	background:#f9fafc;
+}
+.panel-footer{
+	background-color: deepskyblue;
+}
+
+.panel-default>.panel-heading {
+	background-color: green;
+}
+.panel-title{
+	text-align: center;
+}
